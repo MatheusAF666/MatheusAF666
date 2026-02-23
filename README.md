@@ -19,14 +19,14 @@
 
 ---
 
-## 🚀 Sobre mí
-- 🔭 Especializado en **Laravel** y **PHP**.  
-- 🌱 Frontend: **Vue**, **TypeScript**, **HTML/CSS**.  
-- 💬 Desarrollo APIs, integración y interfaces reactivas.
+##  Sobre mí
+-  Especializado en **Laravel** y **PHP**.  
+-  Frontend: **Vue**, **TypeScript**, **HTML/CSS**.  
+-  Desarrollo APIs, integración y interfaces reactivas.
 
 ---
 
-## 🔖 Repos destacados
+## Repos destacados
 - [repo-1](https://github.com/MatheusAF666/matildas_blog) — Blog sencillo con un dashboard para crear editar o eliminar las publicaciones y con un editor markdown implementado.  
 - [repo-2](https://github.com/MatheusAF666/matildas_budget) — Aplicación para crear, editar y enviar presupuestos para clientes  
 
