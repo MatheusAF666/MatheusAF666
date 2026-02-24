@@ -28,7 +28,8 @@
 
 ## Repos destacados
 - [repo-1](https://github.com/MatheusAF666/matildas_blog) — Blog sencillo con un dashboard para crear editar o eliminar las publicaciones y con un editor markdown implementado.  
-- [repo-2](https://github.com/MatheusAF666/matildas_budget) — Aplicación para crear, editar y enviar presupuestos para clientes  
+- [repo-2](https://github.com/MatheusAF666/matildas_budget) — Aplicación para crear, editar y enviar presupuestos para clientes
+- [![Portfolio](https://img.shields.io/badge/Portfolio-Mi%20Portafolio-lightgrey?logo=google-chrome&logoColor=white)](https://matheus-portafolio.netlify.app/)
 
 
 ---
